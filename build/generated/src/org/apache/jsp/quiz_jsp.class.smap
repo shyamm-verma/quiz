@@ -1,0 +1,24 @@
+SMAP
+quiz_jsp.java
+JSP
+*S JSP
+*F
++ 0 quiz.jsp
+quiz.jsp
++ 1 header.jsp
+header.jsp
++ 2 fotter.jsp
+fotter.jsp
+*L
+5,78:51
+5#1,20:128
+82#0,4:147
+86,17:152
+102,3:169
+105,2:172,3
+107,3:178
+110,10:182
+119,2:192
+5#2,20:194
+120#0,6:213
+*E
